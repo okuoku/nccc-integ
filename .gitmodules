@@ -1,0 +1,3 @@
+[submodule "nccc"]
+	path = nccc
+	url = https://github.com/okuoku/nccc
