@@ -1,3 +1,6 @@
 [submodule "nccc"]
 	path = nccc
 	url = https://github.com/okuoku/nccc
+[submodule "ext/js/node-api-headers"]
+	path = ext/js/node-api-headers
+	url = https://github.com/nodejs/node-api-headers
